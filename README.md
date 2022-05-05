@@ -3,7 +3,7 @@
 <h6 align="center">Full-Time Computer Informations Systems student with a background in JavaScript, Ruby and the MERN stack. Currently on the lookout for internship and apprenticeship opportunities. </h6>
 
 
-## Who am I? 👉🏻👈🏻
+## Who am I? 👉🏻 👈🏻
 <img src="https://camo.githubusercontent.com/6e2c2f5190c42e4ff6bbd45acf48536ef9bf9e95ad599c59473cf1c701236984/68747470733a2f2f737465656d6974696d616765732e636f6d2f3078302f68747470733a2f2f63646e2e6c6966656861636b65722e72752f77702d636f6e74656e742f75706c6f6164732f323031372f30312f657a6769662e636f6d2d63726f705f313438343536333835392e676966" align="right">
 <p>I was introduced to technology at a young age through a computer at the public library. I frequented this library an hour a day, 6 days a week. Soon, I was far more adept than most adults and was surfing the web like a pro. Due to financial constraints, I was not able to pursue a profession in technology. 
 
@@ -83,7 +83,7 @@ I am excited and eager to begin my journey in Software Engineering and will stop
 <li><a href="https://github.com/josephscha/mod-1-weather-project">Github</a></li>
 </details>
    <hr>
-  <h3> All project visuals can be found on www.josephscha.com/projects</h3>
+  <h3> Portfolio site currently being updated. Visuals will be available on portfolio once finished. </h3>
   <hr>
 </details>
 <br>
@@ -92,7 +92,7 @@ I am excited and eager to begin my journey in Software Engineering and will stop
 <img src="https://www.kodable.com/learn/wp-content/uploads/2019/08/learning-gif-5.gif" align="left" width="300">
 <h5>Currently I am working on:</h5>
 <li>Basics of Python programming in a business environment</li>
-<li>Revamping portfolio website</li>
+<li>Revamping and updating portfolio website</li>
 <li>Data structures and Algorithms</li>
 
 <h5>In the future I am:</h5>
@@ -105,3 +105,5 @@ I am excited and eager to begin my journey in Software Engineering and will stop
 <li>Reading and watching Manga and Anime.</li>
 <li>Video games; currently engrossed in Minecraft, Valorant, League of Legends and many more.</li>
 <li>Collecting and drinking Tea. </li>
+
+<p>Last Updated May 5th, 2022</p>
