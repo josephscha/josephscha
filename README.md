@@ -105,5 +105,7 @@ I am excited and eager to begin my journey in Software Engineering and will stop
 <li>Reading and watching Manga and Anime.</li>
 <li>Video games; currently engrossed in Minecraft, Valorant, League of Legends and many more.</li>
 <li>Collecting and drinking Tea. </li>
+<br>
 
+<hr>
 <p>Last Updated May 5th, 2022</p>
